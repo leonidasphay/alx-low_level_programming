@@ -27,5 +27,4 @@ int main(void)
 											printf("  cc cc  c   c  c   c  c      c   c   \n");
 
 												printf("  c   c   ccc   c   c  ccccc  cccc    \n\n\n");
-
 }
