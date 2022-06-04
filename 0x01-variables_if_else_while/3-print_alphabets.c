@@ -7,7 +7,7 @@
  *
  * Description: print a to z in upper and lower
  *
- * return integer value 0
+ * Return: return integer value 0
  *
  */
 int main(void)
@@ -27,4 +27,3 @@ int main(void)
 	return (0);
 
 }
-
