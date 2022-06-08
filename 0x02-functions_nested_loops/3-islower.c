@@ -3,7 +3,7 @@
 /**
  * _islower - checks for lowercase letters in the file
  * @c: character to check
- * 
+ *
  * Rerurn: 0 or 1
 */
 
