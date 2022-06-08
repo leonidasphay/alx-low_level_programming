@@ -12,7 +12,7 @@ int main(void)
 
 	a = 1;
 	b = 2;
-	c = 2;
+	c = 3;
 
 	printf("%ld, ", a);
 	printf("%ld, ", b);
