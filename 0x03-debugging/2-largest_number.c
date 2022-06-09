@@ -7,6 +7,8 @@
  *
  * @b: second integer
  *
+ * @c: third integer
+ *
  * Return: largest number
 */
 
