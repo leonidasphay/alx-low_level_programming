@@ -1,7 +1,6 @@
 #include "main.h"
 #include <string.h>
 #include <stdio.h>
-
 /**
  * print_rev - print the reverse of a string
  *
@@ -9,7 +8,6 @@
  *
  * Return: Always 0
 */
-
 void print_rev(char *s)
 {
 	int i;
@@ -18,4 +16,5 @@ void print_rev(char *s)
 	{
 		printf("%c", s[i]);
 	}
+	printf("\n");
 }
