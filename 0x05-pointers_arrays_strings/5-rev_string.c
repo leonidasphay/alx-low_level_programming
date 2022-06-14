@@ -1,22 +1,26 @@
 #include "main.h"
 
 /**
- * more_numbers - print all numbers 0 through 14 ten tiems
+ * rev_string - print a string in reverse followed by a new line
+ * @s: string to be reversed
 */
 
-void more_numbers(void)
+void rev_string(char *s)
 {
-	int i;
-	int x;
+	int len, count, end;
+	char beg;
 
-	for (x = 0; x < 10; x++)
+	len = 0;
+
+	while (s[len] != '\0')
+		len++;
+	len--;
+
+	for (count = 0; count <= len / 2; count++)
 	{
-		for (i = 0; i <= 14; i++)
-		{
-			if (i > 9)
-				_putchar((i / 10) + '0');
-			_putchar((i % 10) + '0');
-		}
-		_putchar('\n');
+		beg = s[count];
+		end = s[len - count];
+		s[count] = end;
+		s[len - count] = beg;
 	}
 }
