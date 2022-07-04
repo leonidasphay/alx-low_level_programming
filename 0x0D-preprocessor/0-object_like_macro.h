@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 #define SIZE 1024
 
 int main()
 {
-	printf("%ld \n", SIZE);
+	printf("SIZE: %d \n", SIZE);
 	return 0;
 }
