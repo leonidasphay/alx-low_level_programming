@@ -4,6 +4,6 @@
 
 int main()
 {
-	printf("SIZE: %d \n", SIZE);
+	printf("SIZE: %d\n", SIZE);
 	return 0;
 }
