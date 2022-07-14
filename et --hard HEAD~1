@@ -1,0 +1,299 @@
+[33mcommit 95bfba4a94f8451a992d393ac6da57b58567bec1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Tue Jun 14 03:57:02 2022 -0700
+
+    return (dest);
+
+[33mcommit 38ce0ee76029043391cd85f7a081bade105b5e70[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Tue Jun 14 03:51:50 2022 -0700
+
+    8-print_array.c
+
+[33mcommit dc3047101ca54b6701cf2c9018f8974e874314d0[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Tue Jun 14 03:45:50 2022 -0700
+
+    _putchar.c
+
+[33mcommit 77d5517069c4b6e8bd5f1661ba3f295fb588686f[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Tue Jun 14 03:36:17 2022 -0700
+
+    7-puts_half.c
+
+[33mcommit 3b2617ee0c2066fd33b0c1fc7f12dda9fe1d8d07[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Tue Jun 14 02:48:00 2022 -0700
+
+    6-puts2.c
+
+[33mcommit 0ad657b7dbaefddf404977a9fb15d4761aee887c[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Tue Jun 14 02:42:01 2022 -0700
+
+    6-puts2.c
+
+[33mcommit 6b4d8d84295bf6c6edc7259b9e9ed2f682c128c8[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Tue Jun 14 02:18:55 2022 -0700
+
+    5-rev_string.c
+
+[33mcommit 7d9f0791e468e46733178d7454d3684454ac6142[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Mon Jun 13 16:11:29 2022 -0700
+
+    5-rev_string.c
+
+[33mcommit 0907ac503e717f26e4184c20ac8208c18fd9fd91[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Mon Jun 13 13:27:14 2022 -0700
+
+    4-print_rev.c
+
+[33mcommit 3410bba0ee03b767f86010975f5b907c9863db22[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Mon Jun 13 13:22:24 2022 -0700
+
+    4-print_rev.c
+
+[33mcommit d7ea3703d3ea88e2a84903bc307b7b4bf0d6c676[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Mon Jun 13 08:21:36 2022 -0700
+
+    3-puts.c
+
+[33mcommit fc11490b495fa6379424fef0aba66fae5b62707d[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Mon Jun 13 08:17:16 2022 -0700
+
+    2-strlen.c
+
+[33mcommit e19cdb06394327c9a39ad73130a751affed3a1f0[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Mon Jun 13 08:13:13 2022 -0700
+
+    1-swap.c
+
+[33mcommit 7fdd0b19490269e2df5cffbd346bbc0bec7d6755[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Mon Jun 13 08:08:09 2022 -0700
+
+    README.md
+
+[33mcommit f631f4cf7abddc7c5ade3eeb32d70b87ea85e22a[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Mon Jun 13 08:00:27 2022 -0700
+
+    0-reset_to_98.c
+
+[33mcommit 0a4a39769d73ad53bf94c9f32d68925973bceeef[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Sat Jun 11 07:04:34 2022 -0700
+
+    101-print_number.c
+
+[33mcommit 477212464767a3264af8121799708f871dbffb33[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Sat Jun 11 06:53:02 2022 -0700
+
+    100-prime_factor.c
+
+[33mcommit 596660d4483fc00c87ecc1e2c4fee93c1ac03a79[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Sat Jun 11 06:45:56 2022 -0700
+
+    10-print_triangle.c
+
+[33mcommit bf8d8d6ddcbf83e2adc34f9796fc846af1a1fae7[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Sat Jun 11 06:38:54 2022 -0700
+
+    9-fizz_buzz.c
+
+[33mcommit e379a3ee74c821747ee85da98d3e2bd99e47852d[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Sat Jun 11 06:34:35 2022 -0700
+
+    9-fizz_buzz.c
+
+[33mcommit e71be8c6ecde3a081ddf6815aa080f516ae0e526[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Sat Jun 11 06:28:37 2022 -0700
+
+    9-fizz_buzz.c
+
+[33mcommit f18594eeaab45eb5693926af5b0e6f48704a219c[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Sat Jun 11 06:09:19 2022 -0700
+
+    8-print_square.c
+
+[33mcommit 0a7e7af039fae39b7cd79065738e65a3751b926f[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Sat Jun 11 05:58:38 2022 -0700
+
+    8-print_square.c
+
+[33mcommit 9fae35962a5c3a63c672503d28610a355cd6a1fe[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Sat Jun 11 05:54:22 2022 -0700
+
+    7-print_diagonal.c
+
+[33mcommit fce43d5160327ba1924b55a62132c929cd0afb11[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Sat Jun 11 05:48:50 2022 -0700
+
+    _putchar('\n');
+
+[33mcommit dc1c58d4e196ac3fa97bc8229c326fb370acb89c[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Sat Jun 11 05:45:03 2022 -0700
+
+    5-more_numbers.c
+
+[33mcommit 80eecc6614c6c66258d57db2c0dff66aa08a2aa9[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Sat Jun 11 05:38:20 2022 -0700
+
+    4-print_most_numbers.c
+
+[33mcommit d595d6107cb48c3f8900213e8d69ad96fcedbed9[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Sat Jun 11 05:20:22 2022 -0700
+
+    _putchar('\n');
+
+[33mcommit 1b80dcdcebce0acf335cef95f3c5891ec9f81a9e[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Sat Jun 11 05:14:46 2022 -0700
+
+    2-mul.c
+
+[33mcommit 3f8c31304e1c1e0e851256b2b64e72f9ec343139[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Sat Jun 11 05:06:38 2022 -0700
+
+    1-isdigit.c
+
+[33mcommit cc01827bbdb67ebec910309d948414390e706504[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Sat Jun 11 04:59:52 2022 -0700
+
+    1-isdigit.c
+
+[33mcommit 98da46cd0fdf6503934867db4f12941848b520a2[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Sat Jun 11 04:50:20 2022 -0700
+
+    1-isdigit.c
+
+[33mcommit 8be0ee14fd961e4b381013863a52ef652bc95403[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Fri Jun 10 03:46:48 2022 -0700
+
+    0-isupper.c
+
+[33mcommit e65358d04522f2b59d85ecdfa32f7aadeb98b211[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Thu Jun 9 10:23:01 2022 -0700
+
+    3-print_remaining
+
+[33mcommit 01540d2ccafffc672557e3f56ec49fca6c7a04cd[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Thu Jun 9 10:09:43 2022 -0700
+
+    2-largest_number.c
+
+[33mcommit ff648f50d7926da9f4a57654e329890c609ca527[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Thu Jun 9 09:55:55 2022 -0700
+
+    2-largest_number.c
+
+[33mcommit 94027f0fa15267bd2c38bc6cbca3b574efbbaf24[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Thu Jun 9 09:34:15 2022 -0700
+
+    1-main.c
+
+[33mcommit 2249a4a8b59125e66121e3299dc32e31887160b1[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Thu Jun 9 09:27:40 2022 -0700
+
+    0-main.c
+
+[33mcommit 0324fb31c3023fce7ad930dbc12ab36be7b1a90b[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Thu Jun 9 09:20:44 2022 -0700
+
+    0-main.c
+
+[33mcommit 3d8fbafa0706573750ddbe66435ec2b573447f3f[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Wed Jun 8 15:37:37 2022 -0700
+
+    7-print_last_digit.c
+
+[33mcommit db7b412d58838cf67564792c470b47d275127604[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Wed Jun 8 15:35:17 2022 -0700
+
+    7-print_last_digit.c
+
+[33mcommit a9f3a31a0edbb46cb150b4d4c42e6cf1445cd8fc[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Wed Jun 8 15:29:52 2022 -0700
+
+    104-fibonacci.c
+
+[33mcommit 4cde8436c78234f59827752ddf9ede63a967a7e5[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Wed Jun 8 15:13:42 2022 -0700
+
+    103-fibonacci.c
+
+[33mcommit bdcc637e311989f3038942026eb8c89a83197470[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Wed Jun 8 15:03:08 2022 -0700
+
+    102-fibonacci.c
+
+[33mcommit 345daaf0fe226b939e8580c4a964a9dd9a2ed2cf[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Wed Jun 8 15:00:42 2022 -0700
+
+    102-fibonacci.c
+
+[33mcommit 0e9d28d112efa8eae6ae7364e7ea4f31b5961031[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Wed Jun 8 14:54:33 2022 -0700
+
+    101-natural.c
+
+[33mcommit ad901a31a94693bed72dc55672c9173a470df63c[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Wed Jun 8 14:47:46 2022 -0700
+
+    100-times_table.c
+
+[33mcommit 9d0cf964943e0e72f41cd978bf4010638b7af827[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Wed Jun 8 14:33:14 2022 -0700
+
+    11-print_to_98.c
+
+[33mcommit f70e5cc431d56a6a63b270a925e4c45396a355d5[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Wed Jun 8 14:26:22 2022 -0700
+
+    10-add.c
+
+[33mcommit 38ef762d5ab95884388098746b78cf068013106b[m
+Author: Favour <favourkolawole21@gmail.com>
+Date:   Wed Jun 8 14:22:07 2022 -0700
+
+    9-times_table.c
