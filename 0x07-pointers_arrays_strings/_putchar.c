@@ -13,5 +13,4 @@ int _putchar(char c)
 	return (write(1, &c, 1));
 =======
 return (write(1, &c, 1));
->>>>>>> b75065fee8fe53cdcc90b5d3f44b6ac47735d1ef
 }
