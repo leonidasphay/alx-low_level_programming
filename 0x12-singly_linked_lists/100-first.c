@@ -1,4 +1,4 @@
-#include "lists"
+#include "lists.h"
 
 /**
  * _100first - Prints a message before main function
