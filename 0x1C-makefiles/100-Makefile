@@ -1,23 +1,19 @@
 CC = gcc
 SRC = main.c holberton.c
-OBJ = $(SRC:.c=.o)
-NAME = holberton
+OBJ = $(patsubst %.c,%.o,$(SRC))
+NAME = School
 CFLAGS = -Wall -Werror -Wextra -pedantic
+.PHONY : all clean oclean fclean re #objetivo falso para evitar confilctos
 
-.PHONY: all
-all: m.h $(OBJ)
-	$(CC) $(OBJ) -o $(NAME) 
+all : m.h $(OBJ)
+	$(CC) $(OBJ) -o $(NAME)
 
-.PHONY: clean
-clean:
-	$(RM) -f *~ $(NAME)
+clean :
+	$(RM) *~ $(NAME)
 
-.PHONY: oclean
-oclean: 
-	$(RM) -f $(OBJ)
+oclean :
+	$(RM) $(OBJ)
 
-.PHONY: fclean
-fclean: clean oclean
+fclean : clean oclean
 
-.PHONY: re
-re: oclean all
+re : oclean all
